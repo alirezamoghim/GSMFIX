@@ -1,0 +1,2 @@
+# GSMFIX
+MiniApp in telegram
